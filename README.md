@@ -270,7 +270,7 @@ Monaca | SASS | Algolia | Sendbird
 
 ---
 
-### スマホゲームアプリの開発【PHP/JavaScript/TypeScript】(2017年〜2018年)
+### スマホゲームアプリの開発【Corona/Lua/PHP/JavaScript】(2017年〜2018年)
 
 #### プロジェクト概要
 
@@ -287,6 +287,8 @@ Monaca | SASS | Algolia | Sendbird
 - 基本的な脱出ゲームの実装
 - 逆転裁判のようなゲームの実装
 - 各画面のUI実装
+- Google Apps Scriptでの業務効率をあげるツールの作成
+- 広告周りの調整をするための機能追加
 
 レトロな雰囲気の脱出ゲーム 
 - [ど根性はるちゃん](https://itunes.apple.com/jp/app/%E3%81%A9%E6%A0%B9%E6%80%A7%E3%81%AF%E3%82%8B%E3%81%A1%E3%82%83%E3%82%93-%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0/id1314213193?mt=8)

@@ -5,6 +5,8 @@
 |key|value|
 |----|----|
 |名前|菅原 拓朗|
+|生年月日|1994/10/04|
+|学歴|鹿児島大学卒|
 |生息地|東京都 杉並区|
 |Twitter|[@takuro_sugahara](https://twitter.com/takuro_sugahara)|
 
@@ -112,6 +114,10 @@ Monaca | SASS | Algolia | Sendbird
 - 各一覧系のページネーション機能
 - ユーザーの興味に関するデータの作成、更新、表示機能
 - レッスン進捗の作成、更新、表示機能
+
+#### インフラ
+- GCPの導入
+- GAEの導入
 
 ##### その他
 - githubの運用ルール決めとドキュメントの作成
